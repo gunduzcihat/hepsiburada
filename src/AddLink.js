@@ -22,7 +22,7 @@ function AddLink(props) {
     document.getElementById("savedMessage").innerHTML = "<span class='savedMessage'><p style='font-weight:bold; margin-right:5px'>" + data.linkname + "" + "</p> added...</span>";
     setTimeout(function () {
       document.getElementById("savedMessage").innerHTML = "";
-    }, 3000);
+    }, 2000);
   };
 
   return (

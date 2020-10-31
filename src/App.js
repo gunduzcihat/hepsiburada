@@ -27,6 +27,7 @@ function App() {
 
   return (
     <div className="App">
+      <div id="savedMessage"></div>
       <Switch>
         <Route
           exact
