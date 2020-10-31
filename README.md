@@ -1,2 +1,1 @@
-# hepsiburada
 Hepsiburada case study
